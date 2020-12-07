@@ -3,7 +3,21 @@ entries:
   vrz-engage:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-12-07T13:52:46.407828+02:00"
+    created: "2020-12-07T14:08:35.709421+02:00"
+    dependencies:
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 12.1.1
+    description: A Helm chart for Kubernetes
+    digest: 86b0e4bd33b565ff9325a58d27e99c427c00f97a65616fb238cd81c52b33c700
+    name: vrz-engage
+    type: application
+    urls:
+    - vrz-engage-0.1.0-alpha.11.tgz
+    version: 0.1.0-alpha.11
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2020-12-07T14:08:35.700147+02:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -15,4 +29,4 @@ entries:
     urls:
     - vrz-engage-0.1.0-alpha.10.tgz
     version: 0.1.0-alpha.10
-generated: "2020-12-07T13:52:46.399788+02:00"
+generated: "2020-12-07T14:08:35.69271+02:00"
