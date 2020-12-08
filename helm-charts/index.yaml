@@ -3,7 +3,17 @@ entries:
   vrz-engage:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-12-08T17:56:23.206416+02:00"
+    created: "2020-12-08T18:52:34.796583+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 36ce9370bd52f5946777d0d16c8a9b552d7506d7c49ec6cf637a9532023b464f
+    name: vrz-engage
+    type: application
+    urls:
+    - vrz-engage-0.1.0-alpha.21.tgz
+    version: 0.1.0-alpha.21
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2020-12-08T18:52:34.792904+02:00"
     description: A Helm chart for Kubernetes
     digest: b25ae13c90a7a3bbe3fba30ca6a8ce743d7e52177e588bd3ba6a058f70ee5c04
     name: vrz-engage
@@ -11,4 +21,4 @@ entries:
     urls:
     - vrz-engage-0.1.0-alpha.20.tgz
     version: 0.1.0-alpha.20
-generated: "2020-12-08T17:56:23.201675+02:00"
+generated: "2020-12-08T18:52:34.787553+02:00"
